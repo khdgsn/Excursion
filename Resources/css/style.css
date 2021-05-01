@@ -22,6 +22,11 @@ a {
     color:aquamarine
 }
 
+video {
+    display: block;
+    margin: auto;
+}
+
 h1 {
     font-family: Verdana;
     font-weight: 300;
@@ -35,4 +40,10 @@ h1 {
     font-size: 21px;
     color: gray;
     text-align: center;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
